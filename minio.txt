@@ -1,0 +1,4 @@
+Endpoint:  http://10.221.245.11:9000  http://127.0.0.1:9000    
+AccessKey: P9H4WUAX4OD1DQBN0MOE 
+SecretKey: aMf38FvvSUeTqX1R7UzlLoZCFQE1A7o8V2Q+oIiw 
+
